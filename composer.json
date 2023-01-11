@@ -1,5 +1,5 @@
 {
-    "name": "yaap/theme",
+    "name": "madan2056/yapptheme",
     "description": "Theme support for Laravel 8/9 with assets, theme extends etc.",
     "keywords": [
         "laravel",
@@ -10,8 +10,12 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Biluk Andrey",
+            "name": "Biluk Andrey ( original )",
             "email": "yaapis@gmail.com"
+        },
+        {
+            "name": "Madan Adhikari ( Fork )",
+            "email": "madan2056@gmail.com"
         }
     ],
     "require": {
